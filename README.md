@@ -6,7 +6,9 @@ PD Gate for Fivem Servers
 
 https://gyazo.com/a0408cae0fb1c70382e86551966ceaa2
 
-# Issues And Updates
 
-For any issues or updates that come out will be posted in discord
-https://discord.gg/YanjteX
+# Personal Discord
+
+Talk about coding, updates on new and streams, first look on new stuff.
+
+https://discord.gg/gDzfnm8
